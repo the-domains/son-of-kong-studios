@@ -1,7 +1,7 @@
 name: Son of Kong Studios
 favicon: null
-layout_spectrum: 0.555290351388976
-typography_spectrum: 0.7197989274282008
+layout_spectrum: 1
+typography_spectrum: 0.41715
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.8335886024869978
+    - '#ffe079'
+    - '#307b98'
+    - '#000000'
+    - '#c50013'
+    - '#453d1b'
+  brandStrength: 1
   lightness: 0.34775729943066835
   saturation: 0.628030925989151
   rhythmicContrast: 0.9290771707892418
