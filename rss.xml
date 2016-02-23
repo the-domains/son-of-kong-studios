@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Son of Kong Studios]]></title>
         <description><![CDATA[Son of Kong Studios]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/son-of-kong-studios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 12:20:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 13:29:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/son-of-kong-studios/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>TEACHING / PRACTISE</p>]]></description>
+            <link>https://thegrid.ai/son-of-kong-studios/51982841-29c9-413f-b795-106dce09e3d0/index.html</link>
+            <guid isPermaLink="false">51982841-29c9-413f-b795-106dce09e3d0</guid>
+            <pubDate>Tue, 23 Feb 2016 13:28:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf8689a4-27be-4734-9a63-434d182c91a6.jpg">]]></description>
-            <link>undefined4171b08c-3b36-46fe-9617-f8149cc00781/index.html</link>
+            <link>https://thegrid.ai/son-of-kong-studios/4171b08c-3b36-46fe-9617-f8149cc00781/index.html</link>
             <guid isPermaLink="false">4171b08c-3b36-46fe-9617-f8149cc00781</guid>
             <pubDate>Tue, 23 Feb 2016 12:20:06 GMT</pubDate>
         </item>
